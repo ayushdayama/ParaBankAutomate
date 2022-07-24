@@ -1,5 +1,5 @@
-## ParaBank Website Automation
-### Who Am I? - @Ayush-Dayama || SDET II
-#### What does it do? - Automate usage and testing of all available options in ParaBank website for any logged in user
-#### Why did I code this? - Feel free to look at my code, or just clone it and run it. Agenda is to showcase how I code and help you understand my work efficiently 😀
-[More About Me 😃](https://in.linkedin.com/in/ayush-dayama)
+## ParaBank Website Automate
+#### :computer: Project is based on *Java* (Swing for GUI) and *Selenium* (Web automation). Where agenda is to navigate to a demo website option offered for everyone signed in.
+#### :computer: A user interactable window is displayed upon running, which helps any user to navigate to selected section on the web-application.
+
+##### Created to demostrate sample code in Java and Selenium :bowtie:
